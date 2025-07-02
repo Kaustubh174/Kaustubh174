@@ -39,6 +39,7 @@ I'm an AI and Machine Learning Engineer with a strong background in data analyti
 - 🗨️ **Interactive Chatbot using GPT-3.5-turbo** – [View Project](https://github.com/Kaustubh174/interactive_chatbot)
 - 🥗 **Healthy Meal Planner with GPT-3.5** – [View Project](https://github.com/Kaustubh174/Meal_planner)
 - 📽️ **YouTube Podcast Summarizer with Whisper + GPT-3.5** – [View Project](https://github.com/Kaustubh174/Youtube_video_summary)
+- 🎙️ **Voice AI Chatbot** – [View Project](https://github.com/Kaustubh174/Voice-AI-chatbot)
 
 ---
 
