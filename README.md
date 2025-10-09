@@ -16,7 +16,7 @@ I'm an AI and Machine Learning Engineer with a strong background in data analyti
 **Languages & Frameworks**: Python, Django, SQL, C++  
 **AI & ML**: TensorFlow, PyTorch, Scikit-learn, OpenCV, LangChain, OpenAI  
 **Data Tools**: Pandas, NumPy, Matplotlib, Seaborn  
-**Cloud & DevOps**: AWS, Docker, Kubernetes, Git  
+**Cloud & DevOps**: AWS, Docker, Git  
 **LLM Tools**: OpenAI, Ollama, DeepSeek, LangGraph
 
 ---
