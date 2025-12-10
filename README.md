@@ -7,7 +7,9 @@
 
 ## 🚀 About Me
 
-I'm an AI and Machine Learning Engineer with a strong background in data analytics, IoT, and cloud applications. I specialize in building intelligent systems using TensorFlow, PyTorch, LangChain, and OpenAI APIs. My goal is to design impactful solutions at the intersection of AI, automation, and user experience.
+I'm an Results-oriented professional with a Master’s in Management and hands-on experience in team 
+leadership, operations management, and data analytics. Strong foundation in Data Science, combined with 
+proven ability to lead team in international working environment and optimize business performance. 
 
 ---
 
