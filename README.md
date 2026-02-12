@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kaustubh Jadhav
 
-🔬 AI/ML Engineer | 🤖 LLM Integration | 🌐 Backend & Cloud Developer  
+🔬 Data Science | 🤖 LLM Integration | Business Analyst
 📍 Mumbai, India | ✉️ kaustubhjadhav174@gmail.com | [LinkedIn](https://www.linkedin.com/in/kaustubh-jadhav-a23451154/) | [GitHub](#)
 
 ---
@@ -8,6 +8,7 @@
 ## 🚀 About Me
 
 Results-oriented professional with a Master’s in Management and hands-on experience in Machine Learning, Customer Success, and Data Analysis. Strong foundation in Data Science and AI, with practical experience in Python-based data analysis, visualization, and deep learning using TensorFlow. Proven ability to translate business problems into data-driven insights, lead teams in international environments, and optimize operational performance. 
+
 ---
 
 ## 📚 Technical Skills
