@@ -7,10 +7,7 @@
 
 ## 🚀 About Me
 
-I'm an Results-oriented professional with a Master’s in Management and hands-on experience in team 
-leadership, operations management, and data analytics. Strong foundation in Data Science, combined with 
-proven ability to lead team in international working environment and optimize business performance. 
-
+Results-oriented professional with a Master’s in Management and hands-on experience in Machine Learning, Customer Success, and Data Analysis. Strong foundation in Data Science and AI, with practical experience in Python-based data analysis, visualization, and deep learning using TensorFlow. Proven ability to translate business problems into data-driven insights, lead teams in international environments, and optimize operational performance. 
 ---
 
 ## 📚 Technical Skills
